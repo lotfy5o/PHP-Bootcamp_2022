@@ -1,0 +1,22 @@
+<?php
+echo php_uname();
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo PHP_VERSION;
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo __LINE__;
+echo '<br>';
+echo '<br>';
+echo __FILE__;
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
